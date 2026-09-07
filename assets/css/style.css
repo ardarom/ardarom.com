@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('/assets/fonts/Iosevka-Regular.woff2') format('woff2');
+}
+body {
+	background-color: #282828;
+	color: #ebdbb2;
+	font-family: "Iosevka Web", monospace;
+	line-height: 1.6;
+}
+h1 {
+	color: #fe8019;
+}
+p {
+	color: #ebdbb2;
+}
+a {
+	color: #83a598;
+}
+a:visited {
+	color: #83a598;
+}
+a:active {
+	color: #458588;
+}
+footer p {
+	color: #928374;
+	font-size: 0.8rem;
+}
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.nav-link {
+	color: #fbf1c7;
+	font-weight: bold;
+}
+.nav-link:visited {
+	color: #fbf1c7;
+	font-weight: bold;
+}
+.nav-link:active {
+	color: #bdae93;
+	font-weight: bold;
+}
+
+.nav-label {
+	color: #a89984;
+}
+
+.nav-soon {
+	color: #665c54;
+}
+
+.nav-sep {
+	color: #a89984;
+}
