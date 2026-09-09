@@ -50,6 +50,11 @@ footer p {
 	font-weight: bold;
 }
 
+.nav-link[aria-current="page"] {
+	color: #fabd2f;
+	text-decoration: none;
+}
+
 .nav-label {
 	color: #a89984;
 }
