@@ -19,13 +19,7 @@ img {
 h1 {
 	color: #fe8019;
 }
-p {
-	color: #ebdbb2;
-}
 a {
-	color: #83a598;
-}
-a:visited {
 	color: #83a598;
 }
 a:active {
@@ -51,28 +45,16 @@ footer p {
 	color: #fbf1c7;
 	font-weight: bold;
 }
-.nav-link:visited {
-	color: #fbf1c7;
-	font-weight: bold;
-}
 .nav-link:active {
 	color: #bdae93;
-	font-weight: bold;
 }
-
 .nav-link[aria-current="page"] {
 	color: #fabd2f;
 	text-decoration: none;
 }
-
-.nav-label {
-	color: #a89984;
-}
-
 .nav-soon {
 	color: #665c54;
 }
-
 .nav-sep {
 	color: #a89984;
 }
